@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LENEX version="3.0">
+  <CONSTRUCTOR name="SPLASH Meet Manager 11" registration="Plavalna zveza Slovenije" version="Build 23880">
+    <CONTACT name="GeoLogix AG" street="Muristrasse 60" city="Bern" zip="3006" country="CH" phone="+41 31 356 80 56" fax="+41 31 356 80 81" email="info@splash-software.ch" internet="http://www.splash-software.ch" />
+  </CONSTRUCTOR>
+  <MEETS>
+    <MEET city="Ljubljana" name="26. Pokal Ježek Nedelja" course="SCM" nation="SLO" timing="AUTOMATIC">
+      <AGEDATE value="2013-03-10" type="YEAR" />
+      <POOL name="Zimski bazen CK Tivoli" lanemin="1" lanemax="8" />
+      <POINTTABLE pointtableid="1008" name="DSV Master Performance Table" version="2004" />
+      <FEES>
+        <FEE currency="EUR" type="ATHLETE" value="1600" />
+      </FEES>
+      <SESSIONS>
+        <SESSION date="2013-03-10" number="1">
+          <EVENTS>
+            <EVENT eventid="4683" gender="M" number="9" order="9" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="4" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="4684" agemax="9" agemin="-1" />
+              </AGEGROUPS>
+            </EVENT>
+            <EVENT eventid="4693" gender="M" number="7" order="7" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="4694" agemax="9" agemin="-1" />
+              </AGEGROUPS>
+            </EVENT>
+            <EVENT eventid="4695" gender="F" number="8" order="8" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="4696" agemax="9" agemin="-1" />
+              </AGEGROUPS>
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+      </SESSIONS>
+    </MEET>
+  </MEETS>
+</LENEX>
